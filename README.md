@@ -4,9 +4,9 @@
 
 Ce fichier contient l'étude réalisée (en format PDF), qui couvre l'évaluation des smiles de volatilité, des nappes de volatilité et des prix des options Call et Put sur le marché de l'Euro-Dollar. Cette étude porte sur des données allant de 2014 à 2019. 
 
-## Smiles_Volatilité_Pricing_Options.xlsx
+## Smiles_Volatilité_Pricing_Options.zip
 
-Ce ficher contient les feuilles Excel, qui ont permis de réaliser l'ensemble des calculs. Une description est présentée plus en détail ci-dessous.
+Ce ficher ZIP contient le fichier Excel, qui ont permis de réaliser l'ensemble des calculs. Une description est présentée plus en détail ci-dessous.
 
 La feuille "Données" contient l'ensemble des données allant de 2014 à 2019. Ces données sont constituées des "runs de volatilité", des "strangles delta 10 et delta 25" et des "risk reversals delta 10 et delta 25". 
 
